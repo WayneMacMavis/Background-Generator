@@ -5,7 +5,7 @@ body {
     text-transform: uppercase;
     letter-spacing: .5em;
     top: 15%;
-	background: linear-gradient(to right, red , yellow); /* Standard syntax */
+	background: linear-gradient(to right, red , yellow);
 }
 
 h1 {
@@ -24,4 +24,13 @@ h3 {
     text-transform: none;
     letter-spacing: 0.01em;
 
+}
+
+button {
+    background-color: rgb(12, 255, 3);
+    color:whitesmoke;
+    font-size: medium;
+    font-style: italic;
+    width: 120px;
+    height: 40px;
 }
